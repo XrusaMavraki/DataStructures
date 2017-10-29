@@ -1,0 +1,9 @@
+0000 insert 370 D 0425
+0000 insert 093 D 0630
+0000 insert 427 A 0530
+0000 insert 356 A 0530
+0100 update 370 D 0610
+0100 cancel 093
+0130 insert 918 D 0700
+0200 update 918 D 0645
+0600 insert 999 A 0655
